@@ -190,3 +190,4 @@ pip-selfcheck.json
 
 *.json
 *.png
+!example_neighbor_graph.png

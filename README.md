@@ -25,3 +25,6 @@
     
     $ ls -l neighbor_graph.png 
     -rw-rw-r-- 1 kris kris 41730 Oct 28 10:42 neighbor_graph.png
+
+## Result
+![example neighbor graph](example_neighbor_graph.png)
